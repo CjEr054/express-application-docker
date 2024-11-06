@@ -1,9 +1,3 @@
-To incorporate the relevant information from your Docker document into your README guide, I'll restructure and enhance the content to provide both clarity and detail. This version will add useful Docker concepts like *images*, *layers*, *containers*, and *Dockerfiles*, while maintaining the logical flow of building and sharing the Docker image.
-
-Here's an updated README guide that incorporates this information:
-
----
-
 # **Steps to Build and Share a Docker Image for Your Express Application**
 
 ## **1. Introduction to Docker**
