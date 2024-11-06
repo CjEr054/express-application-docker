@@ -21,7 +21,7 @@ COPY . .
 
 EXPOSE 3000
 
-CMD ["node", "app.js"]
+CMD ["node", "index.js"]
 ```
 
 ### **Step 2: Build the Docker Image**
@@ -111,9 +111,9 @@ Here is a breakdown of the most commonly used instructions in a `Dockerfile`:
 
   **Example**:
   ```dockerfile
-  CMD ["node", "app.js"]
+  CMD ["node", "index.js"]
   ```
-  This tells Docker to run `node app.js` when the container starts. Replace `app.js` with the entry point of your application if necessary.
+  This tells Docker to run `node index.js` when the container starts. Replace `index.js` with the entry point of your application if necessary.
 
 #### **6. `EXPOSE`**
 
