@@ -1,4 +1,4 @@
-# **Steps to Build and Share a Docker Image for Your Express Application**
+# **Steps to Build and Share a Docker Image for a Node Express Application with a local SQLITE database**
 
 ## **1. Building the Docker Image and Running the Container**
 
