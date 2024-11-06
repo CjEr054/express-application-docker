@@ -241,11 +241,3 @@ docker run -p 3000:3000 my-express-application
 ```
 
 ---
-
-## **Conclusion**
-
-This guide provides an overview of Docker concepts, explains the steps to build a Docker image for your Express app, and shows how to share it by pushing to Docker Hub or exporting to a `.tar` file. Docker helps ensure that your app behaves consistently across different environments, and by using containers, you can easily deploy and share your application without worrying about dependency conflicts or system configurations.
-
----
-
-This updated README now integrates the detailed explanations about Docker, images, containers, and
